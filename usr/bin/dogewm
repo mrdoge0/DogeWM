@@ -1,0 +1,4 @@
+#!/bin/bash
+# DogeWM main executable
+
+echo "DogeWM Main"
