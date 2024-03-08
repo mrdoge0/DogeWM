@@ -11,5 +11,5 @@ To install DogeWM, run this commands:
 git clone https://github.com/mrdoge0/DogeWM.git
 cd DogeWM
 chmod +x ./install.sh
-./install.sh
+sudo ./install.sh
 </code>
